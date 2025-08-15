@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦁 Skilled in solving complex problems and optimizing algorithms in C++.<br>🏁Regular participant in online coding contests<br>😎Experienced in HTML, CSS<br>🚀 Driven by curiosity and a thirst for knowledge<br>✨Eager to explore new technologies and collaborate on innovative projects
+🦁 Skilled in solving complex problems and optimizing algorithms in C++.<br>🏁Regular participant in online coding contests<br>😎Experienced in HTML, CSS, JS and React<br>🚀 Driven by curiosity and a thirst for knowledge<br>✨Eager to explore new technologies and collaborate on innovative projects
 
 
 ## 🌐 Socials:
